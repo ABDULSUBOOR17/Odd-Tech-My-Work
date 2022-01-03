@@ -1,0 +1,5 @@
+1)plot through matplotlib
+2)check how much data rasa required
+3)download the data and merge our data
+4)kitne data par biased hota hai kitni %
+5)
